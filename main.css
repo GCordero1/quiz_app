@@ -1,0 +1,16 @@
+body {
+    background-color: #00aedb;
+    color: #FFFFFF;
+}
+h1, h2 {
+    color: #FFFFFF;
+}
+#button {
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    background-color: #8ec127;
+    width: 50px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
