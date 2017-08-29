@@ -37,7 +37,7 @@ var allQuestions = [{
       ,{
         question: "What number does Kristaps Porzingis wear ?",
         choices: ["7", "11", "6", "33"],
-        answer: "3"
+        answer: 3
 }];
 
 $(document).ready(function() {
